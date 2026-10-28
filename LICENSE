@@ -1,3 +1,10 @@
+สรุปภาษาไทย — ไม่ใช่ตัวบทที่มีผลทางกฎหมาย (ตัวบทภาษาอังกฤษด้านล่างเท่านั้นที่มีผล)
+ใช้ฟรีได้เลย รวมถึงเอาไปใช้ในร้านพัสดุ/ธุรกิจของตัวเองก็ฟรี ไม่ต้องขออนุญาตและไม่ต้องจ่ายเงิน
+แต่ห้ามเอาตัวซอฟต์แวร์นี้ไปขาย ให้เช่า เก็บเงินค่าเข้าใช้/ค่าโฮสติ้งจากคนอื่น หรือเอาไปรวมในสินค้า/บริการที่เก็บเงิน
+ถ้าจะแจกต่อ ต้องแจกฟรีและแนบไฟล์ LICENSE นี้ไปด้วยเสมอ
+
+---
+
 MIT License
 
 Copyright (c) 2026 bhudchonk
@@ -19,3 +26,35 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+"Commons Clause" License Condition v1.0
+
+The Software is provided to you by the Licensor under the License, as defined below, subject to the following condition.
+
+Without limiting other conditions in the License, the grant of rights under the License will not include, and the License does not grant to you, the right to Sell the Software.
+
+For purposes of the foregoing, "Sell" means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/ support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software. Any license notice or attribution required by the License must also include this Commons Clause License Condition notice.
+
+Software: SPX Scanner (spx-scanner)
+
+License: MIT License
+
+Licensor: bhudchonk
+
+---
+
+## Clarification — free use in your own shop
+
+To avoid any doubt about how the MIT License and the Commons Clause condition above fit together:
+
+- Using the Software in your own business — including running it in your own parcel shop / drop-off point as part of your normal work — is permitted, free of charge. You do not need permission and you do not owe any fee for that use, no matter how many parcels you scan with it.
+- Modifying the Software for your own use, and sharing it with others free of charge (with this LICENSE file included), is also permitted.
+- What is prohibited is "Sell" as defined in the Commons Clause above. In plain terms, you may not: sell or rent the Software itself; charge third parties a fee for access to, or hosting of, the Software; or offer a paid product or service whose value derives entirely or substantially from the functionality of the Software. If you want to do any of those things, you must get written permission from the Licensor first.
+
+---
+
+Third-party components keep their own licenses:
+- html5-qrcode (loaded from CDN, not bundled): MIT License — https://github.com/mebjas/html5-qrcode
+- Google Fonts (Noto Sans Thai, IBM Plex Mono): SIL Open Font License 1.1
